@@ -1,0 +1,3 @@
+
+def strOccurence(seq):
+    pass
